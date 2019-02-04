@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fe189c50-e100-4602-94fd-01197eee7efb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dag.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dag.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +23,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dag.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataframe.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -116,6 +127,11 @@
               <item name="dask-examples" type="462c0819:PsiDirectoryNode" />
               <item name="binder" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dask-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dask-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="dataframes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -152,15 +168,15 @@
       <option name="presentableId" value="Default" />
       <updated>1549200964470</updated>
       <workItem from="1549200966512" duration="187000" />
-      <workItem from="1549202452682" duration="4522000" />
+      <workItem from="1549202452682" duration="5356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4709000" />
+    <option name="totallyTimeSpent" value="5543000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-488" width="1096" height="1896" extended-state="7" />
+    <frame x="1912" y="-488" width="1096" height="1896" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28088802" />
@@ -193,13 +209,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/xarray.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/delayed.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -245,10 +254,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataframe.ipynb">
+    <entry file="file://$PROJECT_DIR$/dataframe_2.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delayed.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dag.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataframe.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
         </state>
       </provider>
     </entry>
